@@ -1,0 +1,14 @@
+manifay {
+    //error
+    errorheader to html
+    error.php
+    //index
+    index.php
+    footer to html
+    pagenation.html
+}
+
+/*****************************************************************/
+login{
+    
+}

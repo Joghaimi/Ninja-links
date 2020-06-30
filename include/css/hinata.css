@@ -1,0 +1,42 @@
+/* hinata #31334A(insted of blue ) ##75658C(insted of red)  #31334A */
+.right-list , .top_btn , .top_btn_red
+,.top_btn_blue:hover , .post-blue , .post-blue-pro
+,.info-blue , .li-cross_bl , .icons-bd , .add , .def-cl
+, .info-blue , .a-rd
+  {background-color: #31334A !important;}
+.active , .iconss:hover , .icons:hover
+,.top_btn:hover , .post-red ,.top_btn_red:hover ,.top_btn_blue , .info-red
+ {background-color: #75658C  !important;}
+input:focus , .form:hover , .post-blue:hover
+, .top_btn_red:hover , .main_info:hover , .main_stuff:hover  
+, .danger:hover 
+{box-shadow: 0px 0px 10px #75658C;}
+.top_btn_red { border-left: 3px solid#75658C;}
+.top_btn_blue {border-left: 3px solid #31334A;}
+.top_btn_blue:hover {box-shadow: 0px 0px 10px #31334A;}
+.cross:hover{color:#75658C;}
+.post-red:hover {box-shadow: 0px 0px 10px #31334A;}
+.main_info {border-left: 20px solid #75658C;}
+.info-bl:hover{box-shadow: 0px 0px 30px #75658C;}
+.info-rd:hover{box-shadow: 0px 0px 30px #31334A;}
+.main_stuff {border-left: 20px solid #31334A;}
+.post-blue:hover {box-shadow: 0px 0px 10px #75658C;background-color: rgba(49,51,74,0.8);}
+.post-red:hover {box-shadow: 0px 0px 10px #31334A;background-color: rgba(117,101,140, 0.8);}
+.danger {border-left: 10px solid #75658C;}
+#danger-ti {color: #75658C;}
+.search{border:none;outline: none;border-left: 10px solid #75658C;}    
+#for_searchs{box-shadow: 0px 0px 10px #75658C;}    
+.search_rs{border-left: 10px solid #75658C;}
+.li_li{ border-left: 10px solid #75658C;}    
+.li_da{ border-left: 10px solid #31334A;}
+.li-cross_rd{  background-color: rgb(117,101,140) ;} 
+.a-rd{border-left: 10px solid #75658C;}
+.def-cl:hover {background-color: rgb(117,101,140) !important;}   
+.info-bl:hover{box-shadow: 0px 0px 30px #75658C  !important;}
+.info-rd:hover{box-shadow: 0px 0px 30px #31334A !important;}
+.blue{background-color: #31334A;}
+.blue:hover{background-color: #75658C; }
+.left-border-light-lg{border-left: solid #75658C 10px}
+.left-border-dark-lg{border-left: solid #31334A 10px}
+.font-light{color:#75658C;}
+.font-dark{color:#31334A}

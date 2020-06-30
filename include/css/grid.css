@@ -1,0 +1,180 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing:border-box;
+    
+}
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+body{
+    width:100%;
+
+}
+
+/* small-screan  start*/
+@media  (max-width: 767px)  {
+    .right-list i {
+        margin-bottom: 25px;
+        margin-top: 35px;
+        padding:5px;
+    } 
+    .right-list i:first-child{
+        margin-bottom: 25px;
+        margin-top: 50px;
+        padding:5px;
+    } 
+.visible-lg{display:hidden}
+    
+    .right-post {height: 100px;}
+.ic-c {margin-top: 20px;}
+.all_span{font-size: 20px;}
+.titel{ font-size: 20px;}
+.li_li{font-size: 12px;}
+.li_da{font-size: 12px;}
+.body{font-size: 15px;}
+.lib-cont{margin-top: 50px !important;}
+.hidden-sm{display: none;}
+.col-sm-1 {width: 8.33%;}
+.col-sm-2 {width: 16.66%;}
+.col-sm-3 {width: 25%;}
+.col-sm-4 {width: 33.33%;}
+.col-sm-5 {width: 41.66%;}
+.col-sm-6 {width: 50%;}
+.col-sm-7 {width: 58.33%;}
+.col-sm-8 {width: 66.66%;}
+.col-sm-9 {width: 75%;}
+.col-sm-10 {width: 83.33%;}
+.col-sm-11 {width: 91.66%;}
+.col-sm-12 {width: 100%;}
+/***************/
+.col-sm-off-05 {margin-left: 4.1%;}
+.col-sm-off-1 {margin-left: 8.33%;}
+.col-sm-off-2 {margin-left: 16.66%;}
+.col-sm-off-3 {margin-left: 25%;}
+.col-sm-off-4 {margin-left: 33.33%;}
+.col-sm-off-5 {margin-left: 41.66%;}
+.col-sm-off-6 {margin-left: 50%;}
+.col-sm-off-7 {margin-left: 58.33%;}
+.col-sm-off-8 {margin-left: 66.66%;}
+.col-sm-off-9 {margin-left: 75%;}
+.col-sm-off-10 {margin-left: 83.33%;}
+.col-sm-off-11 {margin-left: 91.66%;}
+.col-sm-off-12 {margin-left: 100%;}
+.row{width:100%;}
+.container{
+    width:70%;
+    margin:auto;
+}
+}
+
+/* small screen end */
+/*******************/
+/* mediam-screen start */
+@media screen and (min-width: 768px) {
+    .right-list i {
+        margin-bottom: 40px;
+        margin-top: 45px;
+    } 
+.all_span{font-size: 30px;}
+.titel{ font-size: 30px;}
+.lib-cont{margin-top: 50px !important}    
+.right-post {height: 200px;}
+.ic-c {margin-top: 60px;}
+.hidden-md{display: none;}
+.col-md-1 {width: 8.33%;}
+.col-md-2 {width: 16.66%;}
+.col-md-3 {width: 25%;}
+.col-md-4 {width: 33.33%;}
+.col-md-5 {width: 41.66%;}
+.col-md-6 {width: 50%;}
+.col-md-7 {width: 58.33%;}
+.col-md-8 {width: 66.66%;}
+.col-md-9 {width: 75%;}
+.col-md-10 {width: 83.33%;}
+.col-md-11 {width: 91.66%;}
+.col-md-12 {width: 100%;}
+/*****************************/
+.col-md-off-1 {margin-left: 8.33%;}
+.col-md-off-2 {margin-left: 16.66%;}
+.col-md-off-3 {margin-left: 25%;}
+.col-md-off-4 {margin-left: 33.33%;}
+.col-md-off-5 {margin-left: 41.66%;}
+.col-md-off-6 {margin-left: 50%;}
+.col-md-off-7 {margin-left: 58.33%;}
+.col-md-off-8 {margin-left: 66.66%;}
+.col-md-off-9 {margin-left: 75%;}
+.col-md-off-10 {margin-left: 83.33%;}
+.col-md-off-11 {margin-left: 91.66%;}
+.col-md-off-12 {margin-left: 100%;}
+.visible-lg{display:hidden}
+
+.row{width:100%;}
+.container{
+    width:70%;
+    margin:auto;
+}
+}
+
+/* mediam-screeen end */
+@media screen and (min-width: 992px)  {
+    .titel{ font-size: 30px;}
+
+.right-list i {
+        margin-bottom: 40px;
+        margin-top: 45px;} 
+.right-post {height: 200px;}
+.ic-c {margin-top: 60px;}
+.all_span{font-size: 30px;}
+.visible-lg{display:block}
+.hidden-lg{display: none;}
+.lib-cont{margin-top: 50px !important}    
+.col-lg-1 {width: 8.33%;}
+.col-lg-2 {width: 16.66%;}
+.col-lg-2-5{width: 20%;}
+.col-lg-3 {width: 25%;}
+.col-lg-4 {width: 33.33%;}
+.col-lg-5 {width: 41.66%;}
+.col-lg-6 {width: 50%;}
+.col-lg-7 {width: 58.33%;}
+.col-lg-8 {width: 66.66%;}
+.col-lg-9 {width: 75%;}
+.col-lg-10 {width: 83.33%;}
+.col-lg-11 {width: 91.66%;}
+.col-lg-12 {width: 100%;}
+/****************/
+.col-lg-off-025 {margin-left: 2.1%;}
+.col-lg-off-05 {margin-left: 4.1%;}
+
+.col-lg-off-1 {margin-left: 8.33%;}
+.col-lg-off-2 {margin-left: 16.66%;}
+.col-lg-off-3 {margin-left: 25%;}
+.col-lg-off-4 {margin-left: 33.33%;}
+.col-lg-off-5 {margin-left: 41.66%;}
+.col-lg-off-6 {margin-left: 50%;}
+.col-lg-off-7 {margin-left: 58.33%;}
+.col-lg-off-8 {margin-left: 66.66%;}
+.col-lg-off-9 {margin-left: 75%;}
+.col-lg-off-10 {margin-left: 83.33%;}
+.col-lg-off-11 {margin-left: 91.66%;}
+.col-lg-off-12 {margin-left: 100%;}    
+
+}
+.container{
+    width:70%;
+    margin:auto;}
+.row{
+    width:100%;
+}
+
+.img{
+    width:100%;
+    height:auto;
+}
+.fix{
+    clear: both;
+}
+

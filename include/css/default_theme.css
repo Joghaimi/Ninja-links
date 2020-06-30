@@ -1,0 +1,51 @@
+/* red and blue */
+.right-list {background-color: #445871;}
+.active {background-color: #FA5252 !important;}
+.iconss:hover {background-color: #FA5252;}
+.icons:hover {background-color: #FA5252;}
+input:focus {box-shadow: 0px 0px 10px #FA5252;}
+.top_btn {background-color: #445871;}
+.top_btn:hover {background-color: #FA5252;}
+.top_btn_red { background-color: #445871; border-left: 3px solid#FA5252;}
+.top_btn_red:hover {background-color: #FA5252;box-shadow: 0px 0px 10px #FA5252;}
+.top_btn_blue { background-color: #FA5252;border-left: 3px solid #445871;}
+.top_btn_blue:hover {background-color: #445871;box-shadow: 0px 0px 10px #445871;}
+.post-red {background-color: #FA5252;}
+.post-blue {background-color: #445871;}
+.post-blue-pro{background-color: #445871;}
+.form:hover {box-shadow: 0px 0px 10px #FA5252;}
+.cross:hover{color:#FA5252;}
+.post-blue:hover {box-shadow: 0px 0px 10px #FA5252;}
+.post-red:hover {box-shadow: 0px 0px 10px #445871;}
+.main_info {border-left: 20px solid #FA5252;}
+.main_info:hover {box-shadow: 0px 0px 10px #FA5252;}    
+.info-red{background-color:#FA5252;}   
+.info-blue{background-color:#445871;} 
+.info-bl:hover{box-shadow: 0px 0px 30px #FA5252;}
+.info-rd:hover{box-shadow: 0px 0px 30px #445871;}
+.main_stuff {border-left: 20px solid #445871;}
+.main_stuff:hover {box-shadow: 0px 0px 10px #FA5252;}
+.post-blue:hover {box-shadow: 0px 0px 10px #FA5252;background-color: rgba(68, 88, 113, 0.8);}
+.post-red:hover {box-shadow: 0px 0px 10px #445871;background-color: rgba(250, 82, 82, 0.8);}
+.danger {border-left: 10px solid #FA5252;}
+.danger:hover {box-shadow: 0px 0px 10px #FA5252;}
+#danger-ti {color: #FA5252;}
+.search{border:none;outline: none;border-left: 10px solid #FA5252;}    
+#for_searchs{box-shadow: 0px 0px 10px #FA5252;}    
+.search_rs{border-left: 10px solid #FA5252;}
+.li_li{ border-left: 10px solid #FA5252;}    
+.li_da{ border-left: 10px solid #445871;}
+.li-cross_bl{  background-color: #445871;}
+.li-cross_rd{  background-color: rgb(250, 90, 90);} 
+.a-rd{background-color:#445871;border-left: 10px solid #FA5252;}
+.icons-bd{background-color: #445871;}
+.add{background-color: #445871;}    
+.blue{background-color: #445871;}
+.blue:hover{background-color: #FA5252;}
+.left-border-light-lg{border-left: solid #FA5252 10px}
+.left-border-dark-lg{border-left: solid #445871 10px}
+.font-light{color:#FA5252;}
+.font-dark{color:#445871}
+/* new */
+.background-light{background-color: #FA5252}
+.background-dark{background-color: #445871}

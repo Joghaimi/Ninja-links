@@ -1,0 +1,56 @@
+/* hinata ###232323(insted of blue ) ###CC1122(insted of red)  #232323 */
+.right-list {background-color: #232323;}
+.active {background-color: #CC1122 !important;}
+.iconss:hover {background-color: #CC1122;}
+.icons:hover {background-color: #CC1122;}
+input:focus {box-shadow: 0px 0px 10px #CC1122;}
+.top_btn {background-color: #232323;}
+.top_btn:hover {background-color: #CC1122;}
+.top_btn_red { background-color: #232323; border-left: 3px solid#CC1122;}
+.top_btn_red:hover {background-color: #CC1122;box-shadow: 0px 0px 10px #CC1122;}
+.top_btn_blue { background-color: #CC1122;border-left: 3px solid #232323;}
+.top_btn_blue:hover {background-color: #232323;box-shadow: 0px 0px 10px #232323;}
+.post-red {background-color: #CC1122;}
+.post-blue {background-color: #232323;}
+.post-blue-pro{background-color: #232323;}
+.form:hover {box-shadow: 0px 0px 10px #CC1122;}
+.cross:hover{color:#CC1122;}
+.post-blue:hover {box-shadow: 0px 0px 10px #CC1122;}
+.post-red:hover {box-shadow: 0px 0px 10px #232323;}
+.main_info {border-left: 20px solid #CC1122;}
+.main_info:hover {box-shadow: 0px 0px 10px #CC1122;}    
+.info-red{background-color:#CC1122;}   
+.info-blue{background-color:#232323;} 
+.info-bl:hover{box-shadow: 0px 0px 30px #CC1122;}
+.info-rd:hover{box-shadow: 0px 0px 30px #232323;}
+.main_stuff {border-left: 20px solid #232323;}
+.main_stuff:hover {box-shadow: 0px 0px 10px #CC1122;}
+.post-blue:hover {box-shadow: 0px 0px 10px #CC1122;background-color: rgba(35,35,35,0.8);}
+.post-red:hover {box-shadow: 0px 0px 10px #232323;background-color: rgba(204,17,34, 0.8);}
+.danger {border-left: 10px solid #CC1122;}
+.danger:hover {box-shadow: 0px 0px 10px #CC1122;}
+#danger-ti {color: #CC1122;}
+.search{border:none;outline: none;border-left: 10px solid #CC1122;}    
+#for_searchs{box-shadow: 0px 0px 10px #CC1122;}    
+.search_rs{border-left: 10px solid #CC1122;}
+.li_li{ border-left: 10px solid #CC1122;}    
+.li_da{ border-left: 10px solid #232323;}
+.li-cross_bl{  background-color: #232323;}
+.li-cross_rd{  background-color: rgb(204,17,34) ;} 
+.a-rd{background-color:#232323;border-left: 10px solid #CC1122;}
+.icons-bd{background-color: #232323;}
+.add{background-color: #232323;}   
+.def-cl{background-color: #232323 !important;}
+.def-cl:hover {background-color: rgb(204,17,34) !important;}   
+.def-cl{background-color:#232323 !important;}
+.def-cl:hover {background-color: rgb(204,17,34) !important;}   
+.info-bl:hover{box-shadow: 0px 0px 30px #CC1122  !important;}
+.info-rd:hover{box-shadow: 0px 0px 30px #232323 !important;}
+.info-red{background-color:#CC1122 !important;}
+.info-blue{background-color:#232323 !important;}
+.blue{background-color: #232323;}
+.blue:hover{background-color: #CC1122;}
+.left-border-light-lg{border-left: solid #CC1122 10px}
+.left-border-dark-lg{border-left: solid #232323 10px}
+.font-light{color:#CC1122;}
+.font-dark{color:#232323}
