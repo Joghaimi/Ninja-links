@@ -2,7 +2,8 @@
 A platform for communication between student
   * Add Note 
   * save Links
-  * Find tutorial
+  * Find tutorial and book
+  * To Do
 # Login Page
 
 ![LoginPage](ReadMe/LogInPage.png?raw=true)
