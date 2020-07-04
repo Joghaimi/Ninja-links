@@ -703,8 +703,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `password`, `name`, `token`, `them`, `facebook_account`, `Linkedin_account`, `Gmail_account`, `google_account`, `birth_day`, `advice`, `gender`, `secoundName`) VALUES
-(1, 'ezzahmad19@gmail.com', '21a7fa8e52b2ed3e322e2b3d2b72b3fc', 'ahmad', 'b1k6,gtf.v', 1, '123', 'AHMA', '', '', '0000-00-00', 'ahmadsaid', '', ''),
-(71, 'ezzahmad19@yahoo.com', '21a7fa8e52b2ed3e322e2b3d2b72b3fc', 'ahmad', '', 1, '', '', '', '', '0000-00-00', '', '', '');
+(1, 'ezzahmad19@gmail.com', '23e3223e3221a7fa8a7fa8a7fa8e52b2ed3e322e2b3d2b72b3f', 'ahmad', 'b1k6,gtf.v', 1, '123', 'AHMA', '', '', '0000-00-00', 'ahmadsaid', '', ''),
+(71, 'ezzahmad19@yahoo.com', '23e3223e3221a7fa8a7fa8a7fa8e52b2ed3e322e2b3d2b72b3fc', 'ahmad', '', 1, '', '', '', '', '0000-00-00', '', '', '');
 
 -- --------------------------------------------------------
 
