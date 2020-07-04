@@ -4,5 +4,5 @@ A platform for communication between student
   * save Links
   * Find tutorial
 # Login Page
-![alt text](https://github.com/Joghaimi/Ninja-links/tree/master/ReadMe/LogInPage.png?raw=true)
+![LoginPage](ReadMe/LogInPage.png?raw=true)
 
