@@ -4,5 +4,25 @@ A platform for communication between student
   * save Links
   * Find tutorial
 # Login Page
+
 ![LoginPage](ReadMe/LogInPage.png?raw=true)
+
+# Where to Save Your Link
+
+![SaveLink](ReadMe/savedlinkPage.png?raw=true)
+
+# ToDo Page
+
+![ToDo](ReadMe/toDopage.png?raw=true)
+
+# Library Sections
+
+![Library Sections](ReadMe/library.png?raw=true)
+
+# Electrical Part 
+
+![Library Sections](ReadMe/ElectricalLibrary.png?raw=true)
+
+
+
 
